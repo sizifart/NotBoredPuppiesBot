@@ -1,0 +1,2 @@
+# NotBoredPuppiesBot
+NotBoredPuppiesBot App AutoClicker
